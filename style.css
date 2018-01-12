@@ -41,6 +41,15 @@ header {
   margin: 10px 5px;
 }
 
+.menu li a {
+  text-decoration: none;
+  color: #fff;
+  padding: 5px 10px;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+  border-bottom: 1px solid #fff;
+}
+
 /* resize images------------- */
 .logo img {
     width: 100%;
