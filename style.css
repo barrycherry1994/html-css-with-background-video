@@ -30,6 +30,12 @@ header {
   height:50px;
 }
 
+.menu {
+  float: right;
+  list-style: none;
+  margin: 20px;
+}
+
 /* resize images------------- */
 .logo img {
     width: 100%;
