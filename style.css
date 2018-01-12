@@ -50,6 +50,12 @@ header {
   border-bottom: 1px solid #fff;
 }
 
+.menu li a:hover {
+  background: coral;
+  border-bottom: 1px solid coral;
+  transition: .4s;
+}
+
 /* resize images------------- */
 .logo img {
     width: 100%;
