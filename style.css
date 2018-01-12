@@ -29,7 +29,7 @@
 
 }
 
-.header {
-  background: rgba(0,0,100,0.5);
+header {
+  background: rgba(135,206,235,0.5);
   height: 100vh;
 }
