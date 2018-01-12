@@ -56,6 +56,20 @@ header {
   transition: .4s;
 }
 
+.msg {
+  position: relative;
+  text-align: center;
+  font-family: sans-serif;
+  color: #fff;
+  top: 200px;
+  text-transform: uppercase;
+}
+
+.msg h1{
+  font-size: 52px;
+  margin: 25px;
+}
+
 /* resize images------------- */
 .logo img {
     width: 100%;
