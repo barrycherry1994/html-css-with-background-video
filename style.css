@@ -2,7 +2,12 @@
   margin: 0;
   padding: 0;
 }
-
+/* Element selectors ------------- */
+header {
+  background: rgba(0,0,100,0.3);
+  height: 100vh;
+}
+/* Class selectors -------------- */
 .video-background {
   position: absolute;
   right: 0;
@@ -14,12 +19,17 @@
   z-index: -100;
 }
 
+.nav {
+  background: rgba(0,0,0,0.5);
+  height: 80px;
+}
+
 .logo {
   width:70px;
   height:50px;
 }
 
-/* resize images */
+/* resize images------------- */
 .logo img {
     width: 100%;
     height: auto;
@@ -38,9 +48,4 @@
       height: 100%;
     }
 
-}
-
-header {
-  background: rgba(0,0,100,0.3);
-  height: 100vh;
 }
